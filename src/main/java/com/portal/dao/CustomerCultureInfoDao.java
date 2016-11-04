@@ -62,4 +62,5 @@ public interface CustomerCultureInfoDao {
      * 根据主键更新记录
      */
     int updateByPrimaryKey(CustomerCultureInfo record);
+//123
 }
